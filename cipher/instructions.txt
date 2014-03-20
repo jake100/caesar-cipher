@@ -1,1 +1,2 @@
-5
+encrypt
+shift_letters 5
