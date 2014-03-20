@@ -1,4 +1,4 @@
 caesar-cipher
 =============
 
-have the input in the text.txt file and it will shift the text whatever amount you want and then write the result to a file
+have the input in the text.txt file and it will be modified however you specify in the instructions file, instruction by instruction then it will output to the result file.
